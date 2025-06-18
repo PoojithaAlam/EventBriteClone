@@ -56,6 +56,8 @@ or
 
 https://eventbrite-6e7m.onrender.com
 
+(Please note: some links may become inactive over time. If so, feel free to explore the repository or browse the code directly.)
+
 ## Install dependencies
 
 ## Backend
